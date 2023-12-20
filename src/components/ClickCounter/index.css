@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f1f5f8;
+}
+.description {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  font-size: 36px;
+  margin: 10px;
+}
+span {
+  color: #c20a72;
+  font-family: 'Roboto';
+}
+.para {
+  font-size: 24px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+.button {
+  border-width: 0px;
+  padding: 10px;
+  color: #ffffff;
+  background-color: #007bff;
+  border-radius: 2px;
+  margin-top: 10px;
+  border-radius: 2px;
+}
